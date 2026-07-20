@@ -10,6 +10,24 @@ The objective was to analyse sales performance across regions, products, custome
 ## 🎯 Business Objective
 
 The primary objective of this project was to transform raw sales data into meaningful business insights using Microsoft Power BI. By analysing trends across regions, products, sales channels, customer segments and marketing campaigns, the dashboard supports data-driven decision-making through clear visualisations and actionable recommendations.
+
+## 📸 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/Executive-Dashboard.png)
+
+### Product Analysis
+
+![Product Analysis](screenshots/Product-Analysis.png)
+
+### Sales Analysis
+
+![Sales Analysis](screenshots/Sales-Analysis.png)
+
+### Marketing & Customer Insights
+
+![Marketing & Customer Insights](screenshots/Marketing-Insights.png)
 ---
 
 ## Tools Used
