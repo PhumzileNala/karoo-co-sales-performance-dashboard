@@ -15,19 +15,21 @@ The primary objective of this project was to transform raw sales data into meani
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/Executive-Dashboard.png)
+![Executive Dashboard](screenshots/Executive%20Dashboard.png)
 
 ### Product Analysis
 
-![Product Analysis](screenshots/Product-Analysis.png)
+![Product Analysis](screenshots/Product%20Analysis.png)
 
 ### Sales Analysis
 
-![Sales Analysis](screenshots/Sales-Analysis.png)
+![Sales Analysis](screenshots/Sales%20Analysis.png)
 
-### Marketing & Customer Insights
+### Marketing & Consumer Insights
 
-![Marketing & Customer Insights](screenshots/Marketing-Insights.png)
+![Marketing & Consumer Insights](screenshots/Marketing%20%26%20Consumer%20Insights.png)
+
+
 ---
 
 ## Tools Used
