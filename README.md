@@ -6,6 +6,10 @@ This project analyses Karoo & Co.'s 2025 sales performance using Microsoft Power
 
 The objective was to analyse sales performance across regions, products, customer segments, sales channels and marketing campaigns, and provide actionable recommendations to support executive decision-making.
 
+
+## 🎯 Business Objective
+
+To analyse Karoo & Co.'s 2025 sales data, identify meaningful business trends, and provide data-driven recommendations through interactive Business Intelligence dashboards.
 ---
 
 ## Tools Used
